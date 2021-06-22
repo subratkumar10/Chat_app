@@ -1,4 +1,7 @@
-It is a chat app which is made using react and react-hooks.For backend databse firestore is used and It is deployed in firbase which is a real time database.
+It is a chat app which is made using react and react-hooks.For backend database firestore is used and It is deployed in firbase which is a real time database.
+
+It is hosted in this Url.
+https://messanger-app-59f60.web.app/
 
 
 
